@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="36335672_10217575422483713_6975958046203707392_n" size="100.000000 144.930069" />
+    <ImageTarget name="qrcode-http-pandazen-wordpress-com" size="248.000000 248.000000" />
+  </Tracking>
+</QCARConfig>
